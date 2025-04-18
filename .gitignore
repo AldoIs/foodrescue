@@ -1,0 +1,33 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración local
+*.env
+*.local
+
+# Datos de IDEs
+.vscode/
+.idea/
+
+# Archivos de migración no versionados (opcional)
+# lotes/migrations/
+
+# Archivos de base de datos SQLite (si los generaras alguna vez)
+db.sqlite3
+
+# Archivos de logs
+*.log
+
+# Mac/Linux
+.DS_Store
+*.swp
+
+# Windows
+Thumbs.db
